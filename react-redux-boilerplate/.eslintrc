@@ -1,7 +1,0 @@
-{
-    "extends": "rallycoding",
-    "globals": {
-        "document": true,        
-        "window": true
-  }
-}
